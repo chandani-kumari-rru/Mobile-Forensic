@@ -1,4 +1,4 @@
-# Mobile-Forensi
+# Mobile-Forensic
 ---
 # ADB(Android Dubug Bridge) Commands
 
