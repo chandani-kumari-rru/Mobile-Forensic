@@ -9,8 +9,8 @@
 | [iLEAPP](https://github.com/abrignoni/iLEAPP) | Free | Open-source tool for parsing `iOS forensic` artifacts. |
 
 ## Related Tool
-| [Android Studio](https://github.com/abrignoni/iLEAPP) | Free | For AVM/Emulator |
-| [ADB](https://github.com/abrignoni/aLEAPP) | Free | Estabilishing Connection b/w Mobile & Computer |
+| [Android Studio](https://developer.android.com/studio) | Free | For AVM/Emulator |
+| [ADB](https://developer.android.com/tools/releases/platform-tools) | Free | Estabilishing Connection b/w Mobile & Computer |
 | [SQL Lite Browser](https://github.com/abrignoni/aLEAPP) | Free | For See timeline(metadata) of .db extension file |
 
 ---
