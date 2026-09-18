@@ -1,4 +1,18 @@
 # Mobile-Forensic
+## Mobile Forensic Tools
+| Forensic Tool | Type | Description |
+|---|---|---|
+| [Oxygen Forensic](https://www.oxygenforensics.com/) | Cracked Free | `Uses`: extract & analyze data from smartphone, applications & cloud services |
+| [Cellebrite UFED](https://cellebrite.com/en/ufed/) | Paid | Commercial mobile-device acquisition and extraction platform. |
+| [Magnet AXIOM](https://www.magnetforensics.com/products/magnet-axiom/) | Paid | `Uses`: specializes in recovering digital evidence from mobile devices, computers & cloud services |
+| [ALEAPP](https://github.com/abrignoni/aLEAPP) | Free | Open-source tool for parsing `Android forensic` artifacts. |
+| [iLEAPP](https://github.com/abrignoni/iLEAPP) | Free | Open-source tool for parsing `iOS forensic` artifacts. |
+
+## Related Tool
+| [Android Studio](https://github.com/abrignoni/iLEAPP) | Free | For AVM/Emulator |
+| [ADB](https://github.com/abrignoni/aLEAPP) | Free | Estabilishing Connection b/w Mobile & Computer |
+| [SQL Lite Browser](https://github.com/abrignoni/aLEAPP) | Free | For See timeline(metadata) of .db extension file |
+
 ---
 # ADB(Android Dubug Bridge) Commands | [Video1](https://youtu.be/TxoAHpvwQXA?si=HNsO46A3RG8vt9z3) | [Video2](https://youtu.be/Caxr124OFFU?si=i4T3GBs9MfIetxJn)
 ## Quick Review Basic Commands
