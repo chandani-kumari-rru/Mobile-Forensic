@@ -1,6 +1,6 @@
 # Mobile-Forensic
 ---
-# ADB(Android Dubug Bridge) Commands
+# ADB(Android Dubug Bridge) Commands | [Video1](https://youtu.be/TxoAHpvwQXA?si=HNsO46A3RG8vt9z3) | [Video2](https://youtu.be/Caxr124OFFU?si=i4T3GBs9MfIetxJn)
 
 ## 1. Device Connection & Server Management
 - **List connected devices (with details):**
