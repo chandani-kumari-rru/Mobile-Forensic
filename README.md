@@ -11,7 +11,7 @@
 ## Related Tool
 | [Android Studio](https://developer.android.com/studio) | Free | For AVM/Emulator |
 | [ADB](https://developer.android.com/tools/releases/platform-tools) | Free | Estabilishing Connection b/w Mobile & Computer |
-| [SQL Lite Browser](https://github.com/abrignoni/aLEAPP) | Free | For See timeline(metadata) of .db extension file |
+| [SQL Lite Browser](https://sqlitebrowser.org/) | Free | For See timeline(metadata) of .db extension file |
 
 ---
 # ADB(Android Dubug Bridge) Commands | [Video1](https://youtu.be/TxoAHpvwQXA?si=HNsO46A3RG8vt9z3) | [Video2](https://youtu.be/Caxr124OFFU?si=i4T3GBs9MfIetxJn)
