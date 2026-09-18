@@ -3,6 +3,7 @@
 # ADB(Android Dubug Bridge) Commands | [Video1](https://youtu.be/TxoAHpvwQXA?si=HNsO46A3RG8vt9z3) | [Video2](https://youtu.be/Caxr124OFFU?si=i4T3GBs9MfIetxJn)
 ## Quick Review Basic Commands
 <img src="images/adb-command1.png" alt="adb" width="900">  
+
 ## 1. Device Connection & Server Management
 - **List connected devices (with details):**
   ```bash
