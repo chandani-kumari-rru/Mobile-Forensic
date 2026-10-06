@@ -11,7 +11,7 @@
 ## Related Tool
 | Forensic Tool | Type | Description |
 |---|---|---|
-| [Android Studio](https://developer.android.com/studio) | Free | For AVM/Emulator |
+| [AVM](https://developer.android.com/studio),[Genymotion](https://www.genymotion.com/product-desktop/download/) | Free | Android Emulator |
 | [ADB](https://developer.android.com/tools/releases/platform-tools) | Free | Estabilishing Connection b/w Mobile & Computer |
 | [SQL Lite Browser](https://sqlitebrowser.org/) | Free | For See timeline(metadata) of .db extension file |
 
